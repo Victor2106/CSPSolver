@@ -18,8 +18,8 @@ This project is just a draft of a CSP solver!
 
 - Diff : Check if two value are different
 - Equals : Check if two value are equals
-- Inf : Check if a value is superior or equals to another
-- Sup : Check if a value is inferior or equals to another
+- Inf : Check if a value is inferior or equals to another
+- Sup : Check if a value is superior or equals to another
 
 ### Domain
 
